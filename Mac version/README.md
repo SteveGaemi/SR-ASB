@@ -1,7 +1,7 @@
 ## MacOS Installation Instructions
 
 1. **Download and unzip** the contents of the `macos/` folder to any location on your Mac.
-   - Go back to **Symbolic-Regression-ASB2025**, click `<>Code`, and click **Download Zip File**.
+   - Go back to **Symbolic-Regression-ASB2025**, click `<>Code`, and click **Download Zip**.
 
 3. **Open Terminal** and **navigate to the app directory** (where you extracted the files).  
    Replace the path if needed, for example:
