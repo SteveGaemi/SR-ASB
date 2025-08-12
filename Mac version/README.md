@@ -3,7 +3,7 @@
 1. **Download and unzip** the contents of the `macos/` folder to any location on your Mac.
 
 2. **Open Terminal** and **navigate to the app directory** (where you extracted the files).  
-   Replace the path if needed:
+   Replace the path if needed, for example:
 
    ```bash
    cd ~/Downloads/SR/PySR\ GUI
