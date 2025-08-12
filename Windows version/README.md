@@ -1,7 +1,7 @@
 ## 🪟 Windows Installation Instructions
 
 1. **Download and unzip** the contents of the `windows/` folder to any location on your computer.
-   - Go back to **Symbolic-Regression-ASB2025** and click `<>Code` 
+   - Go back to **Symbolic-Regression-ASB2025**, click `<>Code`, and click **Download Zip**.
 
 3. **Double-click** the file named `installer.bat`.  
    - This script will install all necessary dependencies.  
